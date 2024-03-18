@@ -1,0 +1,14 @@
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\bin\Debug\net8.0\DEAFIOS_SEMANA7.exe
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\bin\Debug\net8.0\DEAFIOS_SEMANA7.deps.json
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\bin\Debug\net8.0\DEAFIOS_SEMANA7.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\bin\Debug\net8.0\DEAFIOS_SEMANA7.dll
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\bin\Debug\net8.0\DEAFIOS_SEMANA7.pdb
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.dll
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\refint\DEAFIOS_SEMANA7.dll
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.pdb
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\DEAFIOS_SEMANA7.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\DEAFIOS_SEMANA7\DEAFIOS_SEMANA7\obj\Debug\net8.0\ref\DEAFIOS_SEMANA7.dll

@@ -1,0 +1,14 @@
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\bin\Debug\net8.0\DESAFIO_3.exe
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\bin\Debug\net8.0\DESAFIO_3.deps.json
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\bin\Debug\net8.0\DESAFIO_3.runtimeconfig.json
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\bin\Debug\net8.0\DESAFIO_3.dll
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\bin\Debug\net8.0\DESAFIO_3.pdb
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.AssemblyInfoInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.AssemblyInfo.cs
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.csproj.CoreCompileInputs.cache
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.dll
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\refint\DESAFIO_3.dll
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.pdb
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\DESAFIO_3.genruntimeconfig.cache
+C:\Users\lechu\OneDrive\Escritorio\SEMANA_7_DESAFIOS\SEMANA7_DESAFIO3\DESAFIO_3\DESAFIO_3\obj\Debug\net8.0\ref\DESAFIO_3.dll
